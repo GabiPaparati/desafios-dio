@@ -4,7 +4,6 @@
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
 - [Office Word](https://www.microsoft.com/en/microsoft-365/word)
 
 ## 🧠 Prompts
